@@ -2,3 +2,5 @@
 learning
  bjbj
  kloll
+
+a bit about myself
